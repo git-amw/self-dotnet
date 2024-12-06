@@ -1,0 +1,14 @@
+D:\bfsi\WithoutGeneric\bin\Debug\netcoreapp3.1\WithoutGeneric.exe
+D:\bfsi\WithoutGeneric\bin\Debug\netcoreapp3.1\WithoutGeneric.deps.json
+D:\bfsi\WithoutGeneric\bin\Debug\netcoreapp3.1\WithoutGeneric.runtimeconfig.json
+D:\bfsi\WithoutGeneric\bin\Debug\netcoreapp3.1\WithoutGeneric.runtimeconfig.dev.json
+D:\bfsi\WithoutGeneric\bin\Debug\netcoreapp3.1\WithoutGeneric.dll
+D:\bfsi\WithoutGeneric\bin\Debug\netcoreapp3.1\WithoutGeneric.pdb
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.csproj.AssemblyReference.cache
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.AssemblyInfoInputs.cache
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.AssemblyInfo.cs
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.csproj.CoreCompileInputs.cache
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.dll
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.pdb
+D:\bfsi\WithoutGeneric\obj\Debug\netcoreapp3.1\WithoutGeneric.genruntimeconfig.cache

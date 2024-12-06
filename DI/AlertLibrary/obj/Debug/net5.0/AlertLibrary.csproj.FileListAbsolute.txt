@@ -1,0 +1,12 @@
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\AlertLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\AlertLibrary.AssemblyInfoInputs.cache
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\AlertLibrary.AssemblyInfo.cs
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\AlertLibrary.csproj.CoreCompileInputs.cache
+D:\BFSI\DI\AlertLibrary\bin\Debug\net5.0\AlertLibrary.deps.json
+D:\BFSI\DI\AlertLibrary\bin\Debug\net5.0\AlertLibrary.dll
+D:\BFSI\DI\AlertLibrary\bin\Debug\net5.0\ref\AlertLibrary.dll
+D:\BFSI\DI\AlertLibrary\bin\Debug\net5.0\AlertLibrary.pdb
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\AlertLibrary.dll
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\ref\AlertLibrary.dll
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\AlertLibrary.pdb
+D:\BFSI\DI\AlertLibrary\obj\Debug\net5.0\AlertLibrary.csproj.AssemblyReference.cache

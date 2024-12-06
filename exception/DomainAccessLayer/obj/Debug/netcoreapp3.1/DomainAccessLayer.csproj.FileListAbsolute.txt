@@ -1,0 +1,10 @@
+D:\BFSI\exception\DomainAccessLayer\bin\Debug\netcoreapp3.1\DomainAccessLayer.deps.json
+D:\BFSI\exception\DomainAccessLayer\bin\Debug\netcoreapp3.1\DomainAccessLayer.dll
+D:\BFSI\exception\DomainAccessLayer\bin\Debug\netcoreapp3.1\DomainAccessLayer.pdb
+D:\BFSI\exception\DomainAccessLayer\obj\Debug\netcoreapp3.1\DomainAccessLayer.csproj.AssemblyReference.cache
+D:\BFSI\exception\DomainAccessLayer\obj\Debug\netcoreapp3.1\DomainAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BFSI\exception\DomainAccessLayer\obj\Debug\netcoreapp3.1\DomainAccessLayer.AssemblyInfoInputs.cache
+D:\BFSI\exception\DomainAccessLayer\obj\Debug\netcoreapp3.1\DomainAccessLayer.AssemblyInfo.cs
+D:\BFSI\exception\DomainAccessLayer\obj\Debug\netcoreapp3.1\DomainAccessLayer.csproj.CoreCompileInputs.cache
+D:\BFSI\exception\DomainAccessLayer\obj\Debug\netcoreapp3.1\DomainAccessLayer.dll
+D:\BFSI\exception\DomainAccessLayer\obj\Debug\netcoreapp3.1\DomainAccessLayer.pdb

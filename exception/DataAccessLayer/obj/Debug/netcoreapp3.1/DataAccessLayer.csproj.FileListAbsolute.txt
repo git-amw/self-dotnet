@@ -1,0 +1,16 @@
+D:\BFSI\exception\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\BFSI\exception\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\BFSI\exception\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\BFSI\exception\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\BFSI\exception\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\BFSI\exception\DataAccessLayer\bin\Debug\netcoreapp3.1\DomainAccessLayer.dll
+D:\BFSI\exception\DataAccessLayer\bin\Debug\netcoreapp3.1\DomainAccessLayer.pdb
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\BFSI\exception\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache

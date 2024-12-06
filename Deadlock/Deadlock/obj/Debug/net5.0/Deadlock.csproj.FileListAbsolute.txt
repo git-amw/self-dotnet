@@ -1,0 +1,16 @@
+D:\BFSI\Deadlock\Deadlock\bin\Debug\net5.0\Deadlock.exe
+D:\BFSI\Deadlock\Deadlock\bin\Debug\net5.0\Deadlock.deps.json
+D:\BFSI\Deadlock\Deadlock\bin\Debug\net5.0\Deadlock.runtimeconfig.json
+D:\BFSI\Deadlock\Deadlock\bin\Debug\net5.0\Deadlock.runtimeconfig.dev.json
+D:\BFSI\Deadlock\Deadlock\bin\Debug\net5.0\Deadlock.dll
+D:\BFSI\Deadlock\Deadlock\bin\Debug\net5.0\ref\Deadlock.dll
+D:\BFSI\Deadlock\Deadlock\bin\Debug\net5.0\Deadlock.pdb
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.csproj.AssemblyReference.cache
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.AssemblyInfoInputs.cache
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.AssemblyInfo.cs
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.csproj.CoreCompileInputs.cache
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.dll
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\ref\Deadlock.dll
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.pdb
+D:\BFSI\Deadlock\Deadlock\obj\Debug\net5.0\Deadlock.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\BFSI\exception\BusinessAccessLayer\bin\Debug\netcoreapp3.1\BusinessAccessLayer.deps.json
+D:\BFSI\exception\BusinessAccessLayer\bin\Debug\netcoreapp3.1\BusinessAccessLayer.dll
+D:\BFSI\exception\BusinessAccessLayer\bin\Debug\netcoreapp3.1\BusinessAccessLayer.pdb
+D:\BFSI\exception\BusinessAccessLayer\bin\Debug\netcoreapp3.1\DomainAccessLayer.dll
+D:\BFSI\exception\BusinessAccessLayer\bin\Debug\netcoreapp3.1\DomainAccessLayer.pdb
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.AssemblyInfoInputs.cache
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.AssemblyInfo.cs
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.csproj.CopyComplete
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.dll
+D:\BFSI\exception\BusinessAccessLayer\obj\Debug\netcoreapp3.1\BusinessAccessLayer.pdb

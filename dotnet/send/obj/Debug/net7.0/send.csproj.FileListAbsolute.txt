@@ -1,0 +1,17 @@
+D:\dotnet\send\bin\Debug\net7.0\send.exe
+D:\dotnet\send\bin\Debug\net7.0\send.deps.json
+D:\dotnet\send\bin\Debug\net7.0\send.runtimeconfig.json
+D:\dotnet\send\bin\Debug\net7.0\send.dll
+D:\dotnet\send\bin\Debug\net7.0\send.pdb
+D:\dotnet\send\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\dotnet\send\obj\Debug\net7.0\send.csproj.AssemblyReference.cache
+D:\dotnet\send\obj\Debug\net7.0\send.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\send\obj\Debug\net7.0\send.AssemblyInfoInputs.cache
+D:\dotnet\send\obj\Debug\net7.0\send.AssemblyInfo.cs
+D:\dotnet\send\obj\Debug\net7.0\send.csproj.CoreCompileInputs.cache
+D:\dotnet\send\obj\Debug\net7.0\send.csproj.CopyComplete
+D:\dotnet\send\obj\Debug\net7.0\send.dll
+D:\dotnet\send\obj\Debug\net7.0\refint\send.dll
+D:\dotnet\send\obj\Debug\net7.0\send.pdb
+D:\dotnet\send\obj\Debug\net7.0\send.genruntimeconfig.cache
+D:\dotnet\send\obj\Debug\net7.0\ref\send.dll
